@@ -1,0 +1,40 @@
+.container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 150px;
+}
+
+.input input {
+    width: 252px;
+    border: 2px solid black;
+    background-color: black;
+    color: white;
+    font-size: 25px;
+    padding-top: 50px;
+    padding-left: 4px;
+}
+
+.row {
+    padding: 5px 5px;
+    background-color: black;
+}
+
+.button {
+    cursor: pointer;
+    width: 60px;
+    border: 2px solid black;
+    border-radius: 38px;
+    height: 56px;
+    font-size: 25px;
+    background-color: gray;
+    color: white;
+}
+
+.zero {
+    width: 124px;
+}
+
+.color {
+    background-color: rgba(255, 255, 0, 0.78);
+}
